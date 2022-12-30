@@ -43,8 +43,8 @@
 ### My Socials
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/AbishekMahi/) 
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">](https://github.com/AbishekMahi)  
+[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/733/733553.png">](https://github.com/AbishekMahi)  
 <!-- [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/this_is_abilash/) -->
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbishekMahi&style=flat-square)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=AbishekMahi&style=flat-square) -->
