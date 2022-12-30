@@ -7,14 +7,14 @@
 
 ### About
 - 👋 Hi, I’m @AbishekMahi
-- 👀 I’m interested in ...
+<!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... -->
 - 📫 Please email via abishekmas0708@gmail.com to reach me.
 - 💬 Ask me about anything, I am happy to help.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<!-- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AbishekMahi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abishekmahi)
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -36,11 +36,11 @@
 ### :fire: Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekMahi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me
+### Connect with me :
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/2875/2875435.png">](mailto:abishekmas0708@gmail.com)
 
 
-### My Socials
+### My Socials :
 
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/145/145807.png">](https://www.linkedin.com/in/AbishekMahi/) 
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/733/733553.png">](https://github.com/AbishekMahi)  
