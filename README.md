@@ -38,7 +38,7 @@
 
 
 ### Connect with me :
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/2875/2875435.png">](mailto:abishekmas0708@gmail.com)
+[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/6806/6806987.png">](mailto:abishekmas0708@gmail.com)
 
 
 ### My Socials :
