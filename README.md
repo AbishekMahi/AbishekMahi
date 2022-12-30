@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 --- -->
+### Hi there, I'm Abilash K👋
+
 ### About
 - 👋 Hi, I’m @AbishekMahi
 - 👀 I’m interested in ...
@@ -34,7 +36,15 @@
 ### :fire: Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekMahi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-AbishekMahi/AbishekMahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Connect with me
+[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/2875/2875435.png">](mailto:abishekmas0708@gmail.com)
+
+
+### My Socials
+
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/AbishekMahi/) 
+[<img target="_blank" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">](https://github.com/AbishekMahi)  
+<!-- [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/this_is_abilash/) -->
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbishekMahi&style=flat-square)
