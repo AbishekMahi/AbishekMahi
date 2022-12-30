@@ -6,7 +6,7 @@
 ### Hi there, I'm Abishek Mahi👋
 
 ### About
-- 👋 Hi, I’m @AbishekMahi
+<!-- - 👋 Hi, I’m @AbishekMahi -->
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
@@ -32,14 +32,15 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbishekMahi&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+<hr>
 ### :fire: Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekMahi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
 ### Connect with me :
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/2875/2875435.png">](mailto:abishekmas0708@gmail.com)
 
-
+<hr>
 ### My Socials :
 
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/145/145807.png">](https://www.linkedin.com/in/AbishekMahi/) 
