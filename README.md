@@ -45,8 +45,8 @@
 
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/145/145807.png">](https://www.linkedin.com/in/AbishekMahi/) 
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/733/733553.png">](https://github.com/AbishekMahi)  
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/4138/4138124.png">](https://www.instagram.com/this_is_abilash/)
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/4138/4138124.png">](https://twitter.com/AbishekMahi0708)
+[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/3955/3955024.png">](https://www.instagram.com/abishek_mahi)
+[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/3670/3670151.png">](https://twitter.com/AbishekMahi0708)
 
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AbishekMahi&style=flat-square) -->
