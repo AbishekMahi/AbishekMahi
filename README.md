@@ -6,7 +6,7 @@
 ### Hi there, I'm Abishek Mahi👋
 
 ### About
-- 👋 Hi, I am Web And App Developer From India 
+- 👋 Hi, I am a Web And App Developer From India 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... -->
@@ -15,7 +15,7 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 <!-- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AbishekMahi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abishekmahi)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AbishekMahi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abishekmahi)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -47,7 +47,7 @@
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/145/145807.png">](https://www.linkedin.com/in/AbishekMahi/) 
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/733/733553.png">](https://github.com/AbishekMahi)  
 [<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/3955/3955024.png">](https://www.instagram.com/abishek_mahi)
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/3670/3670151.png">](https://twitter.com/AbishekMahi0708)
+[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/3670/3670151.png">](https://x.com/AbishekMahi0708)
 
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AbishekMahi&style=flat-square) -->
