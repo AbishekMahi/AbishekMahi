@@ -34,25 +34,25 @@
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,materialui" height="42" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css" height="42" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" height="42" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="42" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" height="42" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,prisma" height="42" />
 </p>
 
 ### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma" height="42" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma" height="42" />
 </p>
 
 ### CMS & Commerce
@@ -62,11 +62,11 @@
 
   <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="42" />
 
-  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/WooCommerce_logo_%282015%29.svg/1280px-WooCommerce_logo_%282015%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20210210075453" width="42" />
 
   <img src="https://cdn.simpleicons.org/elementor/92003B" height="42" />
 
-  <img src="https://cdn.simpleicons.org/divi/6E4AFF" height="42" />
+  <img src="https://darrelwilson.com/wp-content/uploads/2020/10/DW_logos_divi_logo-100x100.png" height="42" />
 </p>
 
 
