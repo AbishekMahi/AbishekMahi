@@ -59,11 +59,16 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=wordpress" height="42" />
+
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="42" />
+
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="42" />
+
+  <img src="https://cdn.simpleicons.org/elementor/92003B" height="42" />
+
+  <img src="https://cdn.simpleicons.org/divi/6E4AFF" height="42" />
 </p>
 
-<p>
-  Shopify Liquid • WooCommerce • Elementor
-</p>
 
 ---
 
