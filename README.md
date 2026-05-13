@@ -1,54 +1,114 @@
-<!-- <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
---- -->
-### Hi there, I'm Abishek Mahi👋
+<h1 align="center">Abishek Mahi</h1>
 
-### About
-- 👋 Hi, I am a Web And App Developer From India 
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... -->
-- 📫 Please email via abishekmas0708@gmail.com to reach me.
-- 💬 Ask me about anything, I am happy to help.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-<!-- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AbishekMahi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abishekmahi)
+<p align="center">
+  Full Stack Developer • SaaS Builder • Founder of <a href="https://lynkify.in">Lynkify</a>
+</p>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" **alt="Nodejs" width="40" height="40"/>
-</div>
+<p align="center">
+  Building scalable SaaS products, modern web applications, and performance-focused digital experiences.
+</p>
 
+<p align="center">
+  <a href="https://lynkify.in">
+    <img src="https://img.shields.io/badge/Lynkify-Founder-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbishekMahi&theme=dark&background=000000)](https://git.io/streak-stats)
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-2563eb?style=for-the-badge&logo=react&logoColor=white" />
 
+  <img src="https://img.shields.io/badge/MERN-Stack-059669?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-### :fire: Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekMahi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## About
 
-### Connect with me :
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/6806/6806987.png">](mailto:abishekmas0708@gmail.com)
+* Full Stack Developer with experience building SaaS platforms, enterprise web systems, e-commerce storefronts, and API-first applications.
+* Founder of <a href="https://lynkify.in">Lynkify</a>, creator-focused SaaS platform for smart links, analytics, landing pages, and distribution tools.
+* Experienced in React, Next.js, Node.js, PostgreSQL, MongoDB, SSR optimization, and scalable frontend architecture.
+* Worked on Shopify storefronts, workflow automation tools, enterprise WordPress systems, and performance-focused web applications.
 
+---
 
-### My Socials :
+## Tech Stack
 
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/145/145807.png">](https://www.linkedin.com/in/AbishekMahi/) 
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/733/733553.png">](https://github.com/AbishekMahi)  
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/3955/3955024.png">](https://www.instagram.com/abishek_mahi)
-[<img target="_blank" src="https://cdn-icons-png.flaticon.com/64/3670/3670151.png">](https://x.com/AbishekMahi0708)
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,materialui" height="42" />
+</p>
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=AbishekMahi&style=flat-square) -->
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" height="42" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" height="42" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,figma" height="42" />
+</p>
+
+### CMS & Commerce
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" height="42" />
+</p>
+
+<p>
+  Shopify Liquid • WooCommerce • Elementor
+</p>
+
+---
+
+## Featured Work
+
+### Lynkify
+
+Creator-focused SaaS platform built with Next.js, Node.js, PostgreSQL, and MongoDB featuring smart links, analytics dashboards, SSR optimization, and subscription workflows.
+
+### Meta Master
+
+Chrome extension for metadata inspection, Open Graph preview analysis, and SEO debugging workflows.
+
+### Enterprise & E-Commerce
+
+Built and optimized enterprise platforms, Shopify storefronts, WooCommerce systems, workflow automation tools, and performance-focused web applications.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbishekMahi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/AbishekMahi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+
+  <a href="https://github.com/AbishekMahi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>
+
+  <a href="https://x.com/AbishekMahi0708" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/white" height="42" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building products with code, systems, and curiosity.</i>
+</p>
